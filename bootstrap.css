@@ -1,0 +1,29 @@
+h2{
+color:blue;
+}
+#new1:hover{
+   background-color:blue;
+   color:white;
+}
+.navbar{
+	background-color:black;
+	
+}
+#color{
+	color:lightgray;
+}
+#color:hover{
+	color:white;
+}
+body{
+    background-image:url("cafe1.jpg");
+    background-repeat:no-repeat;
+	background-size:cover;
+}
+#new2{
+	color:blue;
+	
+	font-family:rosemary;
+	margin-left:50%;
+	margin-top:20%;
+}

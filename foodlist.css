@@ -1,0 +1,29 @@
+
+.size{
+	width:90%;
+}
+.color{
+	color:lightgray;
+}
+
+.color:hover{
+	color:white;
+}
+.new1:hover{
+   background-color:blue;
+   color:white;
+}
+.new4{
+	background-color:black;
+	position:fixed;
+	top:0;
+	width:100%;
+}
+#menu{
+	margin-top:65px;
+	color:green;
+}
+.image{
+	height:300px;
+}
+

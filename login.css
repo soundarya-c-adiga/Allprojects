@@ -1,0 +1,29 @@
+#new3{
+ margin-top:30%;
+ border:5px solid lightgray;
+ width:60%;
+}
+.size{
+	width:90%;
+}
+.color{
+	color:lightgray;
+}
+body{
+	background-image:url("cookies.jpg");
+	background-repeat:no-repeat;
+    background-size:100% 35%;	
+}
+.color:hover{
+	color:white;
+}
+.new1:hover{
+   background-color:blue;
+   color:white;
+}
+.new4{
+	background-color:black;
+	position:fixed;
+	top:0;
+	width:100%;
+}
